@@ -1,5 +1,0 @@
-
- hi there
- creating to test restore reset and revert differences
- lets c how it works
-abc commit and then revert trying
